@@ -12,4 +12,9 @@ This is a full-stack real-time KPI dashboard built with:
 ```bash
 cd server
 npm install
+node index.js
+
+### Frontend
+cd client
+npm install
 npm run dev
